@@ -3,7 +3,6 @@
 
 ### òla,  me chamo ✨Beatriz Landi✨
 
-  [![portifolio](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)(https://www.figma.com/files/recent?fuid=1143495856957310448)]
 
 ![Beatriz GitHub stats](https://github-readme-stats.vercel.app/api?username=00BeatrizLAndiCoelho00&theme=synthwave)
 

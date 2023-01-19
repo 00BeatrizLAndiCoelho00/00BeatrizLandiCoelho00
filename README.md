@@ -1,7 +1,9 @@
 
 
 
-### òla,  me chamo ✨Beatriz Landi✨
+![alt text](Vincent_van_Gogh_-_Almond_blossom_-_Google_Art_Project%201.png)
+
+### Hello, my name is  ![alt text](9929449_thai_pattern_architecture_flower_art_icon%20(1).png)Beatriz Landi![alt text](9929449_thai_pattern_architecture_flower_art_icon%20(1).png)
 
 
 ![Beatriz GitHub stats](https://github-readme-stats.vercel.app/api?username=00BeatrizLAndiCoelho00&show_icons=true&theme=tokyonight)

@@ -35,4 +35,5 @@
     <img align="center" alt="JS" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
 </div>
 
-![Vincent_van_Gogh_-_Almond_blossom_-_Google_Art_Project 1](https://user-images.githubusercontent.com/115050725/213340435-98ba11f7-1668-46c8-b1d5-b87d6795d32c.png)
+![Vincent_van_Gogh_-_Almond_blossom_-_Google_Art_Project 1 (1)](https://user-images.githubusercontent.com/115050725/213340522-cb3bdb52-be50-4f89-b6b9-c7d89b3cef7c.png)
+

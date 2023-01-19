@@ -4,7 +4,7 @@
 ### òla,  me chamo ✨Beatriz Landi✨
 
 
-![Beatriz GitHub stats]](https://github-readme-stats.vercel.app/api?username=00BeatrizLAndiCoelho00&show_icons=true&theme=dark)
+![Beatriz GitHub stats](https://github-readme-stats.vercel.app/api?username=00BeatrizLAndiCoelho00&show_icons=true&theme=dark)
 
 ## Tecnologias
 

@@ -5,7 +5,7 @@
 ![Vincent_van_Gogh_-_Almond_blossom_-_Google_Art_Project 1](https://user-images.githubusercontent.com/115050725/213338893-4dfe1249-ee5c-464e-95fd-971794e92ccf.png)
 
 
-### Hello, my name is ![9929449_thai_pattern_architecture_flower_art_icon (1)](https://user-images.githubusercontent.com/115050725/213339029-7c756f49-2d15-4c85-beeb-38a74a0412d8.png) BEATRIZ LANDI ![9929449_thai_pattern_architecture_flower_art_icon (1)](https://user-images.githubusercontent.com/115050725/213339029-7c756f49-2d15-4c85-beeb-38a74a0412d8.png) 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Hi,+My+name+is+A.+Beatriz+Landi;I'm+19+years+old;I+from+Brasil,+SP;I+study+systems+development+at+Senai;+:%29)](https://git.io/typing-svg)
 
 
 ![Beatriz GitHub stats](https://github-readme-stats.vercel.app/api?username=00BeatrizLAndiCoelho00&show_icons=true&theme=tokyonight)

@@ -11,7 +11,9 @@
 ![Beatriz GitHub stats](https://github-readme-stats.vercel.app/api?username=00BeatrizLAndiCoelho00&show_icons=true&theme=tokyonight)
 
 
-![9929449_thai_pattern_architecture_flower_art_icon (1)](https://user-images.githubusercontent.com/115050725/213340070-1351cce1-9a24-495b-8066-a8d314ea8435.png)## Skills![9929449_thai_pattern_architecture_flower_art_icon (1)](https://user-images.githubusercontent.com/115050725/213340070-1351cce1-9a24-495b-8066-a8d314ea8435.png)
+![9929449_thai_pattern_architecture_flower_art_icon (1)](https://user-images.githubusercontent.com/115050725/213340070-1351cce1-9a24-495b-8066-a8d314ea8435.png)SKILLS![9929449_thai_pattern_architecture_flower_art_icon (1)](https://user-images.githubusercontent.com/115050725/213340070-1351cce1-9a24-495b-8066-a8d314ea8435.png)
+
+<br>
 
 <div style="display: inline_block"><br/>
     <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
